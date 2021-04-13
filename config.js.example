@@ -1,0 +1,4 @@
+module.exports = {
+    token: 'TOKEN GO HERE',
+    savedelay = DELAY BETWEEN SAVES GO HERE :: INT-MS :: 3600000ms == 3600s == 60m == 1hr
+}
